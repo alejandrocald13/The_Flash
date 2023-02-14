@@ -21,6 +21,9 @@ Todo esto sucede en la primera temporada, y al obtener estas habilidades él inv
 - Nora Allen, mamá de Barry Allen
 - Barry Allen, papá de Barry Allen
 
+#### Opinión Personal
+Me gusta la serie, porque la temporada uno, es todo una historia nueva por contar, tambien ver como lo adaptaron a la pantalla, me gusta ver como la velocidad aunque es una magnifica habilidad no es del todo util si no se sabe como manejarla a su perfección. Me gusta además porque los giros que cada episiodio conlleva son inesperados por lo que cada suceso es impredecible, y la última cosa es que es una serie fantástica, en base a mi opinión personal, porque el final de la temporada uno es muy emotivo y entendemos porque él es Flash y no lo cambiaría por nada del mundo.
+
 
 Este README se basó en [The Flash](https://www.sensacine.com/series/serie-16955/).
 
