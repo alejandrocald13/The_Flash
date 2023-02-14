@@ -6,6 +6,7 @@ Allen es un fanático del **Doctor Wells**, debido a que tiene gran admiración 
 Cuando se quiso encender dicho generador, surgieron problemas inexplicables, esto provoca que se corte la energía eléctrica y surja una explosión, esta explosión provocó que a Barry Allen, le cayerá un :zap:, él cae en coma y tras varios intentos, vuelve a la vida, pero con habilidades distintas.
 > Hubieron muchos apagones, pensé que morirías. - Joe West
 >>![The Flash, 1X3](https://m.media-amazon.com/images/M/MV5BOTk2MTI1OTUwM15BMl5BanBnXkFtZTgwOTY0NDM4NDE@._V1_.jpg)
+
 Todo esto sucede en la primera temporada, y al obtener estas habilidades él investiga la muerte de su madre y se enfrenta a un villano reverso. :fearful:
 ![The Flash, 1X3](https://dam.smashmexico.com.mx/wp-content/uploads/2021/03/Flash-S1-3.jpg)
 
@@ -22,4 +23,5 @@ Todo esto sucede en la primera temporada, y al obtener estas habilidades él inv
 
 
 Este README se basó en [The Flash](https://www.sensacine.com/series/serie-16955/).
+
 Ver esta serie en [Netflix](https://www.netflix.com/gt/).
